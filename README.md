@@ -1,2 +1,3 @@
-# prime-booking-system-ygrk
-Automated issue comment bot repository
+# Prime Booking System Ygrk
+
+Automated issue comment bot repository.
